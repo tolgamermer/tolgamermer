@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tolga Recep Mermer</h1>
+<h1 align="center">Hello there, I'm Tolga Recep Mermer</h1>
 <h3 align="center">Currently in my Senior year at Bahcesehir University, pursuing a degree in Software Engineering, I'm dedicated to honing my skills in both academia and practical application.</h3>
 
 - 🌱 I’m currently learning **React**
